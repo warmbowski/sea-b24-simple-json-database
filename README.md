@@ -1,6 +1,6 @@
 <h1>Simple JSON Database</h1>
 
-<img src=''/>
+<img src='https://travis-ci.org/warmbowski/sea-b24-simple-json-database.svg?branch=assignment'/>
 
 Assignment for CF B24
 ========================
